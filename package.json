@@ -1,0 +1,21 @@
+{
+  "name": "webserver-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server -e js,hbs,html,css"
+  },
+  "keywords": [],
+  "author": "Abraham Arreola",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
