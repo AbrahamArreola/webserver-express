@@ -12,3 +12,7 @@ and then:
 ```
 npm run dev
 ```
+
+The web page was deployed with heroku on the following link:
+
+[Express Web Server](https://nodejs-course-webpage.herokuapp.com/)
